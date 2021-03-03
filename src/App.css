@@ -4,16 +4,7 @@
 .App {
   text-align: center;
   height: 100%;
-  
   overflow-x: hidden;
-}
-
-.containerHome {
-  padding: 2.5rem 0;
-  height: 89vh;
-  background-image: url('./homepage.png');
-  background-size: 100% 100%;
-  overflow: hidden;
 }
 
 .container {
@@ -22,8 +13,4 @@
   background-image: url('./background.png');
   background-size: 100% 100%;
   overflow: hidden;
-}
-
-.filler {
-  height: 100vh;
 }
